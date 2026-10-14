@@ -99,4 +99,4 @@ MUHAMMAD JASEL K
 
 Aspiring Data Analyst
 
-Skills Demonstrated: Microsoft Excel, Tableau, Power BI, SQL, data analysis, PivotTables, dashboard development, data visualization, and business reporting.
+Skills Demonstrated: Microsoft Excel, Tableau, Power BI, SQL, data analysis, PivotTables, dashboard development, data visualization, statistics and business reporting.
